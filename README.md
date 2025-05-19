@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jtdance22/vulnerability-management-program)**
+- **[STIG Implementations](https://github.com/jtdance22/STIG-Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
