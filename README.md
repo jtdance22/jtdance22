@@ -11,6 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jtdance22/Threat-Hunting)**
+- **[Privilege escalation and data extraction](https://github.com/jtdance22/Incident-Response-Labs/blob/main/Privilege%20escalation%20and%20data%20extraction.md)**
 
 <hr/>
 
